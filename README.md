@@ -14,6 +14,7 @@
 
 > ## Sobre mim
 -Olá! Me chamo Daniel Dias dos Santos, sou **Cientista de Dados** em formação contínua e atualmente estou cursando **Engenharia da Computação** pela Faculdade Impacta de Tecnologia.<br>
+
 -Sou apaixonado por **tecnologia**, **inteligência artificial** e **automação de dados**, sempre buscando aprender novas ferramentas e aplicar soluções que conectem análise, engenharia e inovação.
 
 > ## Meu Foco
